@@ -17,7 +17,8 @@
     "express": "^4.17.1",
     "git": "^0.1.5",
     "heroku": "^7.47.2",
-    "mongoose": "^5.10.11"
+    "mongoose": "^5.10.11",
+    "nodemon": "^2.0.6"
   },
   "engines": {
     "node": "12.19.0",
